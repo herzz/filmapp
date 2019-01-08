@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/469d6ee352c43c74a40c1110e9356677/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/d9ad34c7e8a4be39fd2866a08a4000fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/9873f0624315e5d0328b765badbd7b7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/bbcb0d320f8bdc5a0efe6fb83a2e1359/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/246955f2459b3dc9fb6d406ef61a2c01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-rxjava2:2.1.0-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/room-rxjava2-2.1.0-alpha01.aar/abea2f15a0ee4d5307144e31719dcf98/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/141e8075cbce646c75b444a8cd71cd54/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/fb436e63fc98e784318c38b39525049d/AndroidManifest.xml:17:1-25:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/a283a406d51e702f7f8899f0a2c9de41/AndroidManifest.xml:15:1-20:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/372ac44c7e4d0b085a6fc9e49fa71f0b/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/0d5bfb16e6fe6d475c56ec3e77676f1d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/91cbf37e84b91eeb22d34a55850c56aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/e37544e630716a88b795be464e679088/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/26dd523e1baebf81cc032244688701c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-rc01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-rc01.aar/a82554b0e0b26b9d8c2d09c3b01c6b73/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/d0868072fa48c3e5f322bc7faeaf88b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/292d2f539bfba6d57fff055a65903ad6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/656035fe066fb64e78bf936ba17ce433/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a0de7d38b66135d3f2597a96bd41973a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/4b9b0b93a85fa930a71140e65f47d3a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/f12ae32bee8490cf4e5e04228995a1eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/1c244ebc1fd20ef8b94989f3d2fcc77e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fcf43dd1a39450c50138dd7748f73872/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2921ab2b6df0d4c5f2e17c8e0008b3f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/bb44a564c880633428a68988ec6dc4b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/4eac6888de7c34328d0011dd243ed0b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/cde24cf02780c0377ede4ad606047c78/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/dbbb0668022b92a4aa2b6cfbe53a6081/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/32f11988ab3c040b76ed4d067ed37987/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/74c6b2ba53b9f44ddcb289a331d8e1e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/047a12943a27e1753379658573c5ffb0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/41cb926e4cf644db831af680206056c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.1-alpha01.aar/39e196569390d4d6ab051ed0fa9c0eb0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/14fde925a2763cdd33c34b84c7771f73/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/98f0498b989acc3dc8ae0faf57fe210c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/8308b555316affdd23d8a48cdca811d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/94f564ef1fbd8c8e87b7f533462c45c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4f18b8df2305df4f124dc6144f10e423/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/69243e4abc0b72d1528e1bc87439f543/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/4e453e79d9e49f9ae2d7e6111a3dee35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/a8674dd9f866a6b0d0c0afb5f9f42ab1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:2:11-49
+		INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:7:5-34:19
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/469d6ee352c43c74a40c1110e9356677/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/469d6ee352c43c74a40c1110e9356677/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/bbcb0d320f8bdc5a0efe6fb83a2e1359/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/bbcb0d320f8bdc5a0efe6fb83a2e1359/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/141e8075cbce646c75b444a8cd71cd54/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/141e8075cbce646c75b444a8cd71cd54/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/fb436e63fc98e784318c38b39525049d/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/fb436e63fc98e784318c38b39525049d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/372ac44c7e4d0b085a6fc9e49fa71f0b/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/372ac44c7e4d0b085a6fc9e49fa71f0b/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/e37544e630716a88b795be464e679088/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/e37544e630716a88b795be464e679088/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.core:core:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/32f11988ab3c040b76ed4d067ed37987/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/32f11988ab3c040b76ed4d067ed37987/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4f18b8df2305df4f124dc6144f10e423/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4f18b8df2305df4f124dc6144f10e423/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/32f11988ab3c040b76ed4d067ed37987/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:13:9-44
+activity#com.zahirherz.sample.filmapp.main.MainActivity
+ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:17:19-49
+	android:theme
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:18:19-75
+	android:name
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:16:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.zahirherz.sample.filmapp.add.AddFilmActivity
+ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:26:9-28:20
+	android:label
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:27:19-51
+	android:name
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:26:19-82
+activity#com.zahirherz.sample.filmapp.search.SearchActivity
+ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:30:9-32:20
+	android:label
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:31:19-49
+	android:name
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml:30:19-84
+uses-sdk
+INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/469d6ee352c43c74a40c1110e9356677/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/469d6ee352c43c74a40c1110e9356677/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/d9ad34c7e8a4be39fd2866a08a4000fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/d9ad34c7e8a4be39fd2866a08a4000fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/9873f0624315e5d0328b765badbd7b7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/9873f0624315e5d0328b765badbd7b7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/bbcb0d320f8bdc5a0efe6fb83a2e1359/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.2.aar/bbcb0d320f8bdc5a0efe6fb83a2e1359/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/246955f2459b3dc9fb6d406ef61a2c01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/246955f2459b3dc9fb6d406ef61a2c01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.1.0-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/room-rxjava2-2.1.0-alpha01.aar/abea2f15a0ee4d5307144e31719dcf98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.1.0-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/room-rxjava2-2.1.0-alpha01.aar/abea2f15a0ee4d5307144e31719dcf98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/141e8075cbce646c75b444a8cd71cd54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/141e8075cbce646c75b444a8cd71cd54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/fb436e63fc98e784318c38b39525049d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/fb436e63fc98e784318c38b39525049d/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/a283a406d51e702f7f8899f0a2c9de41/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/a283a406d51e702f7f8899f0a2c9de41/AndroidManifest.xml:18:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/372ac44c7e4d0b085a6fc9e49fa71f0b/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/372ac44c7e4d0b085a6fc9e49fa71f0b/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/0d5bfb16e6fe6d475c56ec3e77676f1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/0d5bfb16e6fe6d475c56ec3e77676f1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/91cbf37e84b91eeb22d34a55850c56aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/91cbf37e84b91eeb22d34a55850c56aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/e37544e630716a88b795be464e679088/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/e37544e630716a88b795be464e679088/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/26dd523e1baebf81cc032244688701c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/26dd523e1baebf81cc032244688701c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-rc01.aar/a82554b0e0b26b9d8c2d09c3b01c6b73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-rc01.aar/a82554b0e0b26b9d8c2d09c3b01c6b73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/d0868072fa48c3e5f322bc7faeaf88b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/d0868072fa48c3e5f322bc7faeaf88b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/292d2f539bfba6d57fff055a65903ad6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/292d2f539bfba6d57fff055a65903ad6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/656035fe066fb64e78bf936ba17ce433/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/656035fe066fb64e78bf936ba17ce433/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a0de7d38b66135d3f2597a96bd41973a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a0de7d38b66135d3f2597a96bd41973a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/4b9b0b93a85fa930a71140e65f47d3a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/4b9b0b93a85fa930a71140e65f47d3a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/f12ae32bee8490cf4e5e04228995a1eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/f12ae32bee8490cf4e5e04228995a1eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/1c244ebc1fd20ef8b94989f3d2fcc77e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/1c244ebc1fd20ef8b94989f3d2fcc77e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fcf43dd1a39450c50138dd7748f73872/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/fcf43dd1a39450c50138dd7748f73872/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2921ab2b6df0d4c5f2e17c8e0008b3f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2921ab2b6df0d4c5f2e17c8e0008b3f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/bb44a564c880633428a68988ec6dc4b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/bb44a564c880633428a68988ec6dc4b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/4eac6888de7c34328d0011dd243ed0b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/4eac6888de7c34328d0011dd243ed0b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/cde24cf02780c0377ede4ad606047c78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/cde24cf02780c0377ede4ad606047c78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/dbbb0668022b92a4aa2b6cfbe53a6081/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/dbbb0668022b92a4aa2b6cfbe53a6081/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/32f11988ab3c040b76ed4d067ed37987/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/32f11988ab3c040b76ed4d067ed37987/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/74c6b2ba53b9f44ddcb289a331d8e1e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/74c6b2ba53b9f44ddcb289a331d8e1e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/047a12943a27e1753379658573c5ffb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/047a12943a27e1753379658573c5ffb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/41cb926e4cf644db831af680206056c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/41cb926e4cf644db831af680206056c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.1-alpha01.aar/39e196569390d4d6ab051ed0fa9c0eb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.1-alpha01.aar/39e196569390d4d6ab051ed0fa9c0eb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/14fde925a2763cdd33c34b84c7771f73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/14fde925a2763cdd33c34b84c7771f73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/98f0498b989acc3dc8ae0faf57fe210c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/98f0498b989acc3dc8ae0faf57fe210c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/8308b555316affdd23d8a48cdca811d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/8308b555316affdd23d8a48cdca811d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/94f564ef1fbd8c8e87b7f533462c45c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/94f564ef1fbd8c8e87b7f533462c45c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4f18b8df2305df4f124dc6144f10e423/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4f18b8df2305df4f124dc6144f10e423/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/69243e4abc0b72d1528e1bc87439f543/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/69243e4abc0b72d1528e1bc87439f543/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/4e453e79d9e49f9ae2d7e6111a3dee35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/4e453e79d9e49f9ae2d7e6111a3dee35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/a8674dd9f866a6b0d0c0afb5f9f42ab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/a8674dd9f866a6b0d0c0afb5f9f42ab1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zahirh/Developer/filmapp/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/141e8075cbce646c75b444a8cd71cd54/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/141e8075cbce646c75b444a8cd71cd54/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha01.aar/141e8075cbce646c75b444a8cd71cd54/AndroidManifest.xml:24:13-74
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/372ac44c7e4d0b085a6fc9e49fa71f0b/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/372ac44c7e4d0b085a6fc9e49fa71f0b/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/372ac44c7e4d0b085a6fc9e49fa71f0b/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/372ac44c7e4d0b085a6fc9e49fa71f0b/AndroidManifest.xml:9:13-64
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/e37544e630716a88b795be464e679088/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/e37544e630716a88b795be464e679088/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/e37544e630716a88b795be464e679088/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/e37544e630716a88b795be464e679088/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/zahirh/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/e37544e630716a88b795be464e679088/AndroidManifest.xml:24:13-79
